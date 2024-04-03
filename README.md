@@ -1,0 +1,5 @@
+# Francisco Tomas Barroso
+Legajo : 169.911-9   
+Descripción : Empece en la facultad en 2018, tengo 23 años y estoy estudiando y trabajando  
+No tengo muchos hobbies mas que jugar al futbol e ir al gimnasio.  
+<img src="https://github.com/pdepmartestm/bienvenida-2023-FranBarroso2/blob/main/Foto%20carnet.jpg" width=20%>
